@@ -47,7 +47,8 @@
       {
         "ul": [
           "[C#](#c-1)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -148,6 +149,27 @@
               "[@dashohoxha](https://github.com/dashohoxha)/[**oauth2_client**](https://github.com/dashohoxha/oauth2_client)",
               "Drupal module for OAuth2 clients.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@gledi](https://github.com/gledi)/[**amortsched**](https://github.com/gledi/amortsched)",
+              "GDG Tirana App Engine Presentation Sample App - Loan Amortization Schedule Generator",
+              "[:arrow_upper_right:](http://silver-theme-834.appspot.com/)"
             ]
           ]
         }
