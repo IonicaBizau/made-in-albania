@@ -38,5 +38,15 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-albania/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-albania#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-albania#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": []
+      }
+    ]
+  }
 }
