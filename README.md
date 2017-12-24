@@ -9,15 +9,19 @@
 
 ## Contents
 
+
  - [C#](#c-1)
  - [PHP](#php)
  - [Python](#python)
 
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@ermirbeqiraj](https://github.com/ermirbeqiraj)/[**asp.net-mvc-identity…**](https://github.com/ermirbeqiraj/asp.net-mvc-identity-manager) | This project contains Controllers,Models and Views for managing ApplicationRole and ApplicationUser |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 926 | [@banago](https://github.com/banago)/[**PHPloy**](https://github.com/banago/PHPloy) | PHPloy - Incremental Git (S)FTP deployment tool that supports multiple servers, submodules and rollbacks. | [:arrow_upper_right:](http://wplancer.com/phploy/)
@@ -31,10 +35,13 @@
 3 | [@banago](https://github.com/banago)/[**CPT-Class**](https://github.com/banago/CPT-Class) | A PHP class making the process of creating WordPress custom post types & taxonomies as easy as possible. |
 2 | [@dashohoxha](https://github.com/dashohoxha)/[**oauth2_loginprovider**](https://github.com/dashohoxha/oauth2_loginprovider) | This is a Drupal module that allows users to login to other sites through your site, using OAuth2. |
 2 | [@dashohoxha](https://github.com/dashohoxha)/[**oauth2_client**](https://github.com/dashohoxha/oauth2_client) | Drupal module for OAuth2 clients. |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@gledi](https://github.com/gledi)/[**amortsched**](https://github.com/gledi/amortsched) | GDG Tirana App Engine Presentation Sample App - Loan Amortization Schedule Generator | [:arrow_upper_right:](http://silver-theme-834.appspot.com/)
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
